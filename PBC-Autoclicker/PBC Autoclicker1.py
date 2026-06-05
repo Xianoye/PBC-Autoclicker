@@ -1,3 +1,4 @@
+# VERSION 1.0
 import time
 import threading
 import os
